@@ -5,6 +5,7 @@
 /*  Das Programm liest über Victron-USB-Kabel Daten von Victron-Produkten im Text-Modus ein 	*/
 /*  und protokolliert diese als CSV-Datei													 	*/
 /*	Das Programm kann unter Ausschluss jeglicher Haftung auf eigene Verantwortung genutzt werden*/
+/*	Danke an Peter Ott fuer die korrekten stty Einstellungen									*/
 /*	Die Autoren Franz Spreitz und Lukas Pawek freuen sich ueber einen Hinweis im Programm-Code: */
 /*	Code von Franz Spreitz und Lukas Pawek https://energieautark.wordpress.com 					*/
 /************************************************************************************************/
